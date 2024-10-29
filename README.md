@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi! I'm Babajide
 
-<!--
-**babajideomogunwa/babajideomogunwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+'''python
+babajide_omogunwa = {
+    'name': 'Babajide Omogunwa',
+    'location': 'Coed Eva', 'Cwmbran', 'Wales', 'UK',
+    'computer_languages': ['Python', 'SQL', 'Bash', 'R'],
+    'human_languages': ['English', 'Yoruba'],
+    'interests': ['Data Engineering', 'Machine Learning','Product Design', 'Product Testing', 'Cloud Computing', 'Engineering', 'Simulation', 'Car Design', 'Aerofoil Design']
+}
+'''
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have an MBA, and MSc in Mechanical Engineering with my dissertation on investigation of the impact of aerofoil design on performance. Now into IT, running a data engineering course with AiCore, as my interest is on all areas of data engineering, learning new skills and leveraging on these knowledge and techniques to solve real life business and engineering problems. I am open to work and collaborate on various projects of interest. 
+
