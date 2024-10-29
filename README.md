@@ -5,7 +5,7 @@
 '''python
 babajide_omogunwa = {
     'name': 'Babajide Omogunwa',
-    'location': 'Coed Eva', 'Cwmbran', 'Wales', 'UK',
+    'location': 'Coed Eva', 'Cwmbran', 'UK',
     'computer_languages': ['Python', 'SQL', 'Bash', 'R'],
     'human_languages': ['English', 'Yoruba'],
     'interests': ['Data Engineering', 'Machine Learning','Product Design', 'Product Testing', 'Cloud Computing', 'Engineering', 'Simulation', 'Car Design', 'Aerofoil Design']
