@@ -8,10 +8,10 @@ babajide_omogunwa = {
     'location': 'Coed Eva', 'Cwmbran', 'UK',
     'computer_languages': ['Python', 'SQL', 'Bash', 'R'],
     'human_languages': ['English', 'Yoruba'],
-    'interests': ['Data Engineering', 'Machine Learning','Product Design', 'Product Testing', 'Cloud Computing', 'Engineering', 'Simulation', 'Car Design', 'Aerofoil Design']
+    'interests': ['Data Analytics', 'Data Science', 'Data Engineering', 'Machine Learning', 'AI', 'Cloud Computing', 'Engineering', 'Simulation', 'Car Design', 'Aerofoil Design']
 }
 ```
 
-I have an MBA, and MSc in Mechanical Engineering with my dissertation on investigation of the impact of aerofoil design on performance. Now into IT, running a data engineering course with AiCore, learning new skills and leveraging on these knowledge and techniques to solve real life business and engineering problems. I am open to work and collaborate on various projects of interest. 
+An IT enthusiast with strong academic background in Mechanical Engineering. Now leveraging on these knowledge and using IT skills to solve real life business and engineering problems. I am open to work and collaborate on various projects of interest. 
 
 
